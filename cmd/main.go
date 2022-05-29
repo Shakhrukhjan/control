@@ -12,7 +12,7 @@ func main() {
 		  	Balance: 16,
 	     	Currency: "TJS",
 		    Activity: false,
-		},
+		}, 
 		{
 		 	Balance: 17,
 	     	Currency: "TJS1",
