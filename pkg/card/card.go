@@ -7,7 +7,7 @@ import (
 func ChangeActiveCard(cards []*types.Card) {
 	for _, card := range cards {
 		if card.Activity == false {
-			card.Activity = true 
+			card.Activity = true  
 		}
 	}
 }
