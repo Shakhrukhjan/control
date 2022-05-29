@@ -6,6 +6,6 @@ type Currency string
 
 type Card struct {
 	Balance  Money
-	Currency Currency
+	Currency Currency 
 	Activity bool
 }
